@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -cR Vincent:staff <path>/* 
+chown -cR Vincent:staff

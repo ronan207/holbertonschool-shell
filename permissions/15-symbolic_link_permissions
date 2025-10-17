@@ -1,2 +1,2 @@
 #!/bin/bash
-chown u+g my_symbolik_link _hello vincent:staff 
+chown -R -h vincent:staff my_symbolik_link _hello 

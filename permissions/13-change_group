@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp u=a school hello ./
+sudo chgrp u=o school hello ./

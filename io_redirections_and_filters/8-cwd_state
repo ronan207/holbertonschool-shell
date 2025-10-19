@@ -1,20 +1,2 @@
 #!/bin/bash
-echo "total 44
-drwxr-xr-x 2 ronan207 ronan207 4096 Oct 19 11:05  .
-drwxr-xr-x 6 ronan207 ronan207 4096 Oct 18 12:08  ..
--rwxr--r-- 1 ronan207 ronan207   32 Oct 18 12:23  0-hello_world
--rwxr--r-- 1 ronan207 ronan207   28 Oct 18 21:44  1-confused_smiley
--rwxr--r-- 1 ronan207 ronan207   28 Oct 18 22:30  2-hellofile
--rwxr--r-- 1 ronan207 ronan207   39 Oct 19 09:12  3-twofiles
--rwxr--r-- 1 ronan207 ronan207   34 Oct 19 09:29  4-lastlines
--rwxr--r-- 1 ronan207 ronan207   34 Oct 19 09:33  5-firstlines
--rwxr--r-- 1 ronan207 ronan207   40 Oct 19 10:17  6-third_line
--rwxr--r-- 1 ronan207 ronan207   85 Oct 19 11:05  7-file
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 11:02 'Best School'
--rw-r--r-- 1 ronan207 ronan207  107 Oct 18 12:17  README.md
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 11:05 'School\'\''\*$\?\*\*\*\*\*:)'
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 11:05 '\*\'\''Best'
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 10:58 '\n'
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 10:43 '\r'
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 11:02  echo
--rw-r--r-- 1 ronan207 ronan207    0 Oct 19 11:02  n" ls_cwd_content
+ls -la echo > ls_cwd_content 

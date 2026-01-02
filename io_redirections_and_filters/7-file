@@ -1,5 +1,2 @@
 #!/bin/bash
-file='\*\\“« Best School »\”\\*$\?\*\*\*\*\*:)'
-cat > "$file" << 'EOF'
-Best School
-EOF
+echo "Best School" > '\*\\'"Best School"'\\*$\?\*\*\*\*\*:)'
